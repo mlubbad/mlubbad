@@ -33,8 +33,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=PackageTemplate&show_owner=true)](https://github.com/mlubbad/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=Foods-Ecommerce&show_owner=true)](https://github.com/mlubbad/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=PackageTemplate&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
