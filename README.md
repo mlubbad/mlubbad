@@ -33,6 +33,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=laravel-waresoft&show_owner=true)](https://github.com/mlubbad/laravel-waresoft)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
 
 <h3> 🤝🏻 Connect with Me </h3>
