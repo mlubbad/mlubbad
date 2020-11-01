@@ -7,7 +7,7 @@
 > CTO at [2P](https://2p.com.tr)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=mlubbad" alt="mlubbad" />
 
 <div>
  <p>
@@ -33,7 +33,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=PackageTemplate&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
