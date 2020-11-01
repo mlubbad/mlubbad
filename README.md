@@ -39,9 +39,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mlubbad.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mohammed-lubbad-45408627/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/577474/mohammed-lubbad?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://www.mlubbad.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.mlubbad.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mohammed-lubbad-45408627/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mlubbad-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/577474/mohammed-lubbad?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Mohammed%20Lubbad-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:engmlubbad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-engmlubbad@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
