@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Mohammed A. Lubbad](https://mlubbad.me)
-> Research Assistant at [Erciyes University(https://erciyes.edu.tr)
+> Research Assistant at [Erciyes University](https://erciyes.edu.tr)
 
 
 <img src="https://komarev.com/ghpvc/?username=mlubbad" alt="mlubbad" />
