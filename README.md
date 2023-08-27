@@ -47,6 +47,8 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=stock-analysis-and-prediction&show_owner=true)](https://github.com/mlubbad/stock-analysis-and-prediction)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=UsedCarPricePrediction&show_owner=true)](https://github.com/mlubbad/UsedCarPricePrediction)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=laravel-waresoft&show_owner=true)](https://github.com/mlubbad/laravel-waresoft)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
