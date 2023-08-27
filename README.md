@@ -27,7 +27,19 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|---|
- 
+
+### Frameworks 🛠️
+
+| [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/tensorflow.png" alt="tensorflow" width="24">](https://www.tensorflow.org/) | [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/pytorch.jpg" alt="pytorch" width="24">](https://pytorch.org/) | [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/numpy.jpg" alt="numpy" width="24">](https://numpy.org/) | [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/pandas.jpg" alt="pandas" width="24">](https://pandas.pydata.org/) |  [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/matplotlib.jpg" alt="matplotlib" width="24">](https://matplotlib.org/) | [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/scikit-learn.jpg" alt="scikit-learn" width="24">](https://scikit-learn.org/stable/index.html) | [<img src="https://github.com/mlubbad/mlubbad/blob/60e36d6b33d474e65c4c785d36e3403fe3f98e7d/spacy.jpg" alt="spacy" width="24">](https://spacy.io/) | many more...
+|---|---|---|---|---|---|---|---|
+
+
+
+
+
+
+
+
 ### Tools 🛠️
 
 
