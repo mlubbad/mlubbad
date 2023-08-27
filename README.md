@@ -40,7 +40,12 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 ### Github Repos
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=business-analysis-and-forecasting&show_owner=true)](https://github.com/mlubbad/business-analysis-and-forecasting)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=analyzing_the_impact_of_recession_on_automobile_Sales&show_owner=true)](https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=stock-analysis-and-prediction&show_owner=true)](https://github.com/mlubbad/stock-analysis-and-prediction)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=laravel-waresoft&show_owner=true)](https://github.com/mlubbad/laravel-waresoft)
 
