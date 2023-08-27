@@ -53,6 +53,22 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
 
+<h3> 🪪 Certifications </h3>
+
+<p align="left">
+<ol>
+ <li><a href="https://www.credly.com/badges/4df5a459-a82c-4cd7-95f0-8f5770ebf03d">Data Science Orientation</a></li>
+ <li><a href="https://www.credly.com/badges/d2a1c8a2-1299-4136-ae31-8bd1aedee785">Python for Data Science and AI</a></li>
+ <li><a href="https://www.credly.com/badges/a7cc8988-ee28-453c-8dbd-21c737648253">Data Analysis with Python</a></li>
+ <li><a href="https://www.credly.com/badges/a4a1dd16-eb28-4348-a6c4-159b43d89e74">Data Analytics Essentials</a></li>
+ <li><a href="https://www.credly.com/badges/90ccf1a4-c33f-4b42-86e2-c935b192235b">Data Visualization & Dashboard Essentials</a></li>
+ <li><a href="https://www.credly.com/badges/f7ce926c-3bd2-401b-8507-b7de2d99c780">Tools for Data Science V2</a></li>
+ <li><a href="https://www.credly.com/badges/962dcbd1-cd99-444d-8bcc-6efda8215e24">Data Analysis & Visualization Foundations Specialization</a></li>
+ 
+</ol>
+
+</p>
+ 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
