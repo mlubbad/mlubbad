@@ -11,9 +11,15 @@
 
 <div>
  <p>
-I am senior software engineer able to build a software presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+As a Chief Technology Officer at 2P PR & Digital Marketing, I lead the technical strategy and manage the agency's technology resources. I have over 4 years of experience developing and executing a technology roadmap that aligns with the agency's business goals, overseeing the development of technical infrastructure and systems, and collaborating with the agency's leadership team to understand the business's and its clients' needs.
+
+I am also a Research Assistant in ERU at Erciyes University, where I work with a team of data scientists to implement ML-based solutions to real-world problems. I have a broad knowledge of data analysis techniques and a basic understanding of statistics. I am pursuing my Ph.D. in Computer Engineering, focusing on recognition of dental implant systems using deep learning networks. My research interests include machine learning, computer vision, and image processing. 
+
+I was a senior software engineer able to build a software presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player proficient in various scripting languages and multimedia Web tools.
+
+My mission is to help businesses monetize their big data by applying machine learning and predictive modeling techniques to solve real-world business problems. I am passionate about finding innovative and effective ways to leverage data and technology to create value and impact. I am always eager to learn new skills and tools, and to collaborate with other professionals and researchers in the field.
+
 </p>
 </div>
 
