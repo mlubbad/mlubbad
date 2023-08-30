@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://github.com/mlubbad/mlubbad/blob/6256fcf815eb311bd0e4f9ad7452bc24ca883434/Logo-Source-09.png" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
