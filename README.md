@@ -22,16 +22,6 @@
 - 💬 Ask me about AI , Data science.
 - 📫 How to reach me: <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
 
-
-### Connect with me 📬:
-
-<p align="center">
-<a href="https://twitter.com/Science10S"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.kaggle.com/aiotmoo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/15754086/mohamad-osman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>  
-<a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-</p>
-
 </div>
 
 <div>
@@ -85,15 +75,15 @@ My mission is to help businesses monetize their big data by applying machine lea
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028131-333c3480-9ecd-11eb-80ff-73741079df1e.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
-### Github Statistics 📊
+### Github Statistics 📊 <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
 
-![](https://komarev.com/ghpvc/?username=AI-MOO&color=blue) 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AI-MOO?style=social"> <a href="https://twitter.com/Science10S"><img src="https://img.shields.io/twitter/follow/Science10s?style=social" /></a>
+![](https://komarev.com/ghpvc/?username=mlubbad&color=blue) 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mlubbad?style=social"> <a href="https://twitter.com/engmlubbad"><img src="https://img.shields.io/twitter/follow/mlubbad?style=social" /></a>
 
-<div align="center">
+<div>
 
-<a href="https://github.com/AI-MOO"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-MOO&theme=nord"/>
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
+<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlubbad&theme=nord"/>
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" />
 </a>
 
 </div>
@@ -101,7 +91,7 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlubbad&theme=nord)](https://git.io/streak-stats)
 
 </div>
 
@@ -142,7 +132,7 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 </p>
  
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me 📬 </h3>
 
 <p align="left">
 <a href="https://www.mlubbad.me" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.mlubbad.com-blue?style=flat&logo=google-chrome"></a>
