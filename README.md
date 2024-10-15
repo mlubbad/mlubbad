@@ -20,7 +20,7 @@
 - 🌱 I’m interested in Deep Learning, NLP and more.  
 - 🤔 I’m looking for help with Big Data. 
 - 💬 Ask me about AI , Data science.
-- 📫 How to reach me: <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
+- 📫 How to reach me: <a href="https://medium.com/@mlubbad">@mlubbad</a>
 
 </div>
 
