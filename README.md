@@ -87,11 +87,7 @@ My mission is to help businesses monetize their big data by applying machine lea
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mlubbad?style=social"> <a href="https://twitter.com/engmlubbad"><img src="https://img.shields.io/twitter/follow/mlubbad?style=social" /></a>
 
 <div>
-
-<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlubbad&theme=nord"/>
-
-</a>
-
+<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlubbad&theme=nord"/></a>
 </div>
 
 <div>
@@ -99,16 +95,10 @@ My mission is to help businesses monetize their big data by applying machine lea
 </div>
 
 <div>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlubbad&theme=nord)](https://git.io/streak-stats)
-
 </div>
 
 
-
-### Github Stats
-
-[![Mohammed A. Lubbad GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlubbad&show_icons=true&count_private=true)](https://github.com/mlubbad)
 
 ### Github Repos
 
