@@ -38,6 +38,8 @@ My mission is to help businesses monetize their big data by applying machine lea
 </p>
 </div>
 
+
+
 ### Programming Languages 🌐
 
 <code><img height="25" width="24"  src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
@@ -48,6 +50,8 @@ My mission is to help businesses monetize their big data by applying machine lea
 <code><img height="25" width="24" src="https://user-images.githubusercontent.com/67054356/122631297-90be4e80-d0d3-11eb-90e3-dd7c46d5a42e.png"></code>
 <code><img height="25" width="24" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
 <code><img height="25" width="24" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
+
+
 
 
 ### Frameworks & Tools 🛠️
@@ -75,6 +79,8 @@ My mission is to help businesses monetize their big data by applying machine lea
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028131-333c3480-9ecd-11eb-80ff-73741079df1e.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
+
+
 ### Github Statistics 📊 <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
 
 ![](https://komarev.com/ghpvc/?username=mlubbad&color=blue) 
@@ -83,13 +89,16 @@ My mission is to help businesses monetize their big data by applying machine lea
 <div>
 
 <a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlubbad&theme=nord"/>
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" />
+
 </a>
 
 </div>
 
+<div>
+ <a href="https://github.com/mlubbad"><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" /></a>
+</div>
 
-<div align="center">
+<div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlubbad&theme=nord)](https://git.io/streak-stats)
 
