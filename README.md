@@ -16,11 +16,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
 #### `KNOWLEDGE IS POWER 💡` 
-- ✨ I’m currently working on great AI & Data Science projects using R & Python.
-- 🌱 I’m currently learning Deep Learning, NLP and more.  
+- ✨ I’m currently working on great AI & Data Science projects using Python.
+- 🌱 I’m interested in Deep Learning, NLP and more.  
 - 🤔 I’m looking for help with Big Data. 
-- 💬 Ask me about AI , Data science , Electrical Engineering.
-- 📫 How to reach me: <a href="https://twitter.com/Science10S">@science10s</a>
+- 💬 Ask me about AI , Data science.
+- 📫 How to reach me: <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
 
 
 ### Languages:
