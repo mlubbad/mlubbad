@@ -95,7 +95,9 @@ My mission is to help businesses monetize their big data by applying machine lea
 </div>
 
 <div>
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlubbad&theme=nord)](https://git.io/streak-stats)
+
 </div>
 
 
