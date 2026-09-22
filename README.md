@@ -1,5 +1,5 @@
 <p align="center">
- <img width="50%" src="blob:https://github.com/f311c68a-094d-4a23-8c79-da4b44ebd943" align="center" alt="Github Readme Stats" />
+ <img width="50%" src="https://raw.githubusercontent.com/mlubbad/mlubbad/main/Logo-Source-19.png" align="center" alt="Github Readme Stats" />
  <!-- <h2 align="center">Profile</h2> -->
 </p>
 
