@@ -81,23 +81,22 @@ My mission is to help businesses monetize their big data by applying machine lea
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
-
 ### Github Statistics 📊 <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
 
 ![](https://komarev.com/ghpvc/?username=mlubbad&color=blue) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mlubbad?style=social"> <a href="https://twitter.com/engmlubbad"><img src="https://img.shields.io/twitter/follow/mlubbad?style=social" /></a>
 
 <div>
-<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mlubbad&theme=nord"/></a>
+<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=mlubbad&theme=nord"/></a>
 </div>
 
 <div>
- <a href="https://github.com/mlubbad"><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" /></a>
+ <a href="https://github.com/mlubbad"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" /></a>
 </div>
 
 <div>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mlubbad&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mlubbad&theme=nord)](https://github.com/mlubbad)
 
 </div>
 
@@ -105,18 +104,18 @@ My mission is to help businesses monetize their big data by applying machine lea
 
 ### Github Repos
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=business-analysis-and-forecasting&theme=nord)](https://github.com/mlubbad/business-analysis-and-forecasting)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=business-analysis-and-forecasting&show_owner=true)](https://github.com/mlubbad/business-analysis-and-forecasting)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=analyzing_the_impact_of_recession_on_automobile_Sales&theme=nord)](https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=analyzing_the_impact_of_recession_on_automobile_Sales&show_owner=true)](https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=stock-analysis-and-prediction&theme=nord)](https://github.com/mlubbad/stock-analysis-and-prediction)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=stock-analysis-and-prediction&show_owner=true)](https://github.com/mlubbad/stock-analysis-and-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=UsedCarPricePrediction&theme=nord)](https://github.com/mlubbad/UsedCarPricePrediction)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=UsedCarPricePrediction&show_owner=true)](https://github.com/mlubbad/UsedCarPricePrediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=laravel-waresoft&theme=nord)](https://github.com/mlubbad/laravel-waresoft)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=laravel-waresoft&show_owner=true)](https://github.com/mlubbad/laravel-waresoft)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&theme=nord)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&show_owner=true)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
 
 <h3> 🪪 Certifications </h3>
 
