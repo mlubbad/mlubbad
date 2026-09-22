@@ -13,7 +13,7 @@
 **AI-MOO/AI-MOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 --> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=2500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
 
 #### `KNOWLEDGE IS POWER 💡` 
 - ✨ I’m currently working on great AI & Data Science projects using Python.
@@ -81,18 +81,17 @@ My mission is to help businesses monetize their big data by applying machine lea
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
 
 
-
 ### Github Statistics 📊 <a href="https://twitter.com/engmlubbad">@engmlubbad</a>
 
 ![](https://komarev.com/ghpvc/?username=mlubbad&color=blue) 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mlubbad?style=social"> <a href="https://twitter.com/engmlubbad"><img src="https://img.shields.io/twitter/follow/mlubbad?style=social" /></a>
 
 <div>
-<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-mfe8.vercel.app/api?username=mlubbad&theme=nord"/></a>
+<a href="https://github.com/mlubbad"><img height="170px" src="https://github-readme-stats-three-alpha-79.vercel.app/api?username=mlubbad&theme=nord&show_icons=true" alt="GitHub Stats" /></a>
 </div>
 
 <div>
- <a href="https://github.com/mlubbad"><img src="https://github-readme-stats-mfe8.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" /></a>
+ <a href="https://github.com/mlubbad"><img src="https://github-readme-stats-three-alpha-79.vercel.app/api/top-langs/?username=mlubbad&layout=compact&langs_count=8&theme=nord" /></a>
 </div>
 
 <div>
@@ -102,21 +101,19 @@ My mission is to help businesses monetize their big data by applying machine lea
 </div>
 
 
-
 ### Github Repos
 
+[![ReadMe Card](https://github-readme-stats-three-alpha-79.vercel.app/api/pin/?username=mlubbad&repo=dnnlab&theme=nord)](https://github.com/mlubbad/dnnlab)
 
-[![ReadMe Card](https://github-readme-stats-mfe8.vercel.app/api/pin/?username=mlubbad&repo=business-analysis-and-forecasting&theme=nord)](https://github.com/mlubbad/business-analysis-and-forecasting)
+[![ReadMe Card](https://github-readme-stats-three-alpha-79.vercel.app/api/pin/?username=mlubbad&repo=analyzing_the_impact_of_recession_on_automobile_Sales&theme=nord)](https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales)
 
-[![ReadMe Card](https://github-readme-stats-mfe8.vercel.app/api/pin/?username=mlubbad&repo=analyzing_the_impact_of_recession_on_automobile_Sales&theme=nord)](https://github.com/mlubbad/analyzing_the_impact_of_recession_on_automobile_Sales)
+[![ReadMe Card](https://github-readme-stats-three-alpha-79.vercel.app/api/pin/?username=mlubbad&repo=Scrapegraph-ai&theme=nord)](https://github.com/mlubbad/Scrapegraph-ai)
 
-[![ReadMe Card](https://github-readme-stats-mfe8.vercel.app/api/pin/?username=mlubbad&repo=stock-analysis-and-prediction&theme=nord)](https://github.com/mlubbad/stock-analysis-and-prediction)
+[![ReadMe Card](https://github-readme-stats-three-alpha-79.vercel.app/api/pin/?username=mlubbad&repo=ecoute&theme=nord)](https://github.com/mlubbad/ecoute)
 
-[![ReadMe Card](https://github-readme-stats-mfe8.vercel.app/api/pin/?username=mlubbad&repo=UsedCarPricePrediction&theme=nord)](https://github.com/mlubbad/UsedCarPricePrediction)
+[![ReadMe Card](https://github-readme-stats-three-alpha-79.vercel.app/api/pin/?username=mlubbad&repo=quivr&theme=nord)](https://github.com/mlubbad/quivr)
 
-[![ReadMe Card](https://github-readme-stats-mfe8.vercel.app/api/pin/?username=mlubbad&repo=laravel-waresoft&theme=nord)](https://github.com/mlubbad/laravel-waresoft)
-
-[![ReadMe Card](https://github-readme-stats-mfe8.vercel.app/api/pin/?username=mlubbad&repo=10-steps-to-become-a-data-scientist&theme=nord)](https://github.com/mlubbad/10-steps-to-become-a-data-scientist)
+[![ReadMe Card](https://github-readme-stats-three-alpha-79.vercel.app/api/pin/?username=mlubbad&repo=Extreme-Video-Compression-With-Prediction-Using-Pre-trained-Diffusion-Models-&theme=nord)](https://github.com/mlubbad/Extreme-Video-Compression-With-Prediction-Using-Pre-trained-Diffusion-Models-)
 
 <h3> 🪪 Certifications </h3>
 
